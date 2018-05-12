@@ -1,0 +1,40 @@
+_repo: Bygones-Worth-Remembering-Vol.-1--of-2-_36795
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holyoake, George Jacob
+    alias: Holyoake, G. J. (George Jacob)
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '38479'
+    url: http://www.gutenberg.org/2009/agents/38479
+    wikipedia: http://en.wikipedia.org/wiki/George_Jacob_Holyoake
+description: ''
+gutenberg_issued: '2011-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Holyoake, George Jacob, 1817-1906'
+- !lcsh 'Social reformers -- Great Britain -- Biography'
+- !lcsh 'Working class -- Great Britain -- Biography'
+tableOfContents: Concerning bygones prefatory -- Personal incidents -- Other instances
+  -- First steps in literature -- George Eliot and George Henry Lewes -- When Birmingham
+  was a town -- The tenth of April, 1848, its incredibilities -- The Chartists of
+  fiction -- The Old Postillion -- Meeting breakers, list of those who paid for doing
+  it -- Trouble with Her Majesty -- Unforeseen qualities in public men -- The Cobden
+  school -- Harriet Martineau, the deaf girl of Norwich -- Harriet Martineau, further
+  incidents in her singular career -- The three Newmans -- Mazzini in England, incidents
+  in his career -- Mazzini the conspirator -- Garibaldi, the soldier of liberty --
+  The story of the British Legion, never before told -- John Stuart Mill, teacher
+  of the people -- About Mr. Gladstone.
+title: Bygones Worth Remembering, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/36795
